@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Hi, I'm Sameeksha
 
-<!--
-**Sameeksha-Mohan/Sameeksha-Mohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a Master of Science in Business Analytics at the University of Minnesota – Carlson School of Management. With a background in computer science and prior experience as a software developer at IBM, I bring a strong blend of technical expertise and business acumen. I am passionate about leveraging data to generate insights that drive strategic decision-making and operational efficiency.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 My Journey
+
+At IBM, I contributed to the development of MaaS360, an AI-powered Unified Endpoint Management platform. My responsibilities included backend development, feature enhancements, and serving as a Scrum Master. This experience helped sharpen my skills in problem-solving, cross-functional collaboration, and agile project execution.
+
+Since beginning my graduate studies, I have worked on multiple analytics engagements through the Carlson Analytics Lab. These include projects in enrollment optimization, policy impact evaluation (NIL in NCAA), ESG fraud detection, and warehouse location planning for a nonprofit food hub. Each project was rooted in real business contexts, requiring both analytical rigor and practical communication.
+
+---
+
+### 🧠 Areas of Focus
+
+My academic and project work spans a variety of analytics domains:
+- Predictive modeling and time series forecasting  
+- Causal inference and experimental design  
+- Data visualization and dashboard development  
+- Client-focused problem solving
+
+
+I am proficient in tools such as Python, SQL, Tableau and R and have applied a range of analytical techniques including regression, classification, time series forecasting, and experimental analysis. I approach each project with clarity, accountability, and a commitment to delivering high-quality outcomes that drive measurable value.
+
+---
+Thanks for stopping by! Let’s turn questions into answers using data.
+
+### 📬 Reach Me At
+
+- [LinkedIn](https://www.linkedin.com/in/sameekshamohan)  
+- 📧 [Email](mailto:mohan225@umn.edu)

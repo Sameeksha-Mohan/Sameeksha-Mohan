@@ -29,4 +29,4 @@ Thanks for stopping by! Let’s turn questions into answers using data.
 ### 📬 Reach Me At
 
 - [LinkedIn](https://www.linkedin.com/in/sameekshamohan)  
-- 📧 [Email](mailto:mohan225@umn.edu)
+- [Email](mailto:mohan225@umn.edu)

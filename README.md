@@ -28,5 +28,5 @@ Thanks for stopping by! Let’s turn questions into answers using data.
 
 ### 📬 Reach Me At
 
-- [LinkedIn](https://www.linkedin.com/in/sameekshamohan)  
+- [LinkedIn](https://www.linkedin.com/in/sameeksha-mohan)  
 - [Email](mailto:mohan225@umn.edu)

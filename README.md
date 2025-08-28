@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sameeksha
 
-I am currently pursuing a Master of Science in Business Analytics at the University of Minnesota – Carlson School of Management. With a background in computer science and prior experience as a software developer at IBM, I bring a strong blend of technical expertise and business acumen. I am passionate about leveraging data to generate insights that drive strategic decision-making and operational efficiency.
+I hold a Master of Science in Business Analytics from the University of Minnesota – Carlson School of Management, with a background in computer science and professional experience as a software developer at IBM. I combine technical expertise with business acumen and am passionate about using data to generate insights that support strategic decision-making and operational efficiency.
 
 ---
 

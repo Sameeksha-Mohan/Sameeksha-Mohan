@@ -8,7 +8,6 @@ I combine technical expertise with business acumen and am passionate about using
 ## 💼 My Journey
 
 ### 🧩 IBM – Software Engineering Analyst  
-**Bengaluru, India | Jan 2022 – Jul 2024**
 
 Worked as a **Software Engineering Analyst** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
 

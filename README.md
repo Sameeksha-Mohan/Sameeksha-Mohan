@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Sameeksha
 
-I hold a **Master of Science in Business Analytics** from the **University of Minnesota – Carlson School of Management**, with a background in **Computer Science** and professional experience at **IBM**.  
-I combine technical expertise with business acumen and am passionate about using data to generate insights that support **strategic decision-making**, **marketing optimization**, and **operational efficiency**.
+Analytics professional passionate about turning data into action. With experience at IBM and a Master’s in Business Analytics from UMN Carlson, I specialize in using data to improve strategy, performance, and decision-making.
 
 ---
 
 ## 💼 My Journey
 
-### 🧩 IBM – Software Engineering Analyst  
+### 🧩 IBM – Analytics Consultant
 
-Worked as a **Software Engineering Analyst** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
+Worked as a **Analytics Consultant** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
 
 **Key Contributions:**  
 - Conducted **data analysis** using **SQL, Python, and Excel** to evaluate platform metrics, identify optimization opportunities, and support product decisions.  

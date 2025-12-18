@@ -39,6 +39,7 @@ Worked as a **Data Analyst** for **IBM MaaS360**, an AI-powered Unified Endpoint
 - Predictive Modeling & Time Series Forecasting
 - Feature Performance & Impact Analysis
 - Dashboarding & KPI Reporting
+- Business Communication & Stakeholder Management
 
 ---
 

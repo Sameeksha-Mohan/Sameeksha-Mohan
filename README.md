@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Sameeksha
 
-Analytics professional passionate about turning data into action. With experience at IBM and a Master’s in Business Analytics from UMN Carlson, I specialize in using data to improve strategy, performance, and decision-making.
+Data & Product Analytics professional passionate about turning data into action. With experience at IBM and a Master’s in Business Analytics from UMN Carlson, I specialize in using data to improve strategy, performance, and decision-making.
 
 ---
 
 ## 💼 My Journey
 
-### 🧩 IBM – Analytics Consultant
+### 🧩 IBM – Data Analyst
 
-Worked as a **Analytics Consultant** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
+Worked as a **Data Analyst** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
 
-**Key Contributions:**  
 - Conducted **data analysis** using **SQL, Python, and Excel** to evaluate platform metrics, identify optimization opportunities, and support product decisions.  
 - Partnered with cross-functional teams to translate business requirements into **actionable insights** for improving adoption and engagement.  
 - Designed internal dashboards and performance tracking solutions to improve **observability** and **data transparency**.  
@@ -31,21 +30,37 @@ Worked as a **Analytics Consultant** for **IBM MaaS360**, an AI-powered Unified 
 
 ## 🧠 Areas of Focus
 
-- Data Analytics & Business Insights  
-- Marketing Analytics & Campaign Optimization  
-- Causal Inference & Experimental Design  
-- Predictive Modeling & Time Series Forecasting  
-- Dashboarding & KPI Reporting  
+- Data Analytics & Business Insights
+- Product Analytics & User Behavior Analysis
+- Product Metrics (KPIs, Funnels, Retention, Adoption)
+- Marketing Analytics & Campaign Optimization
+- Experimentation & A/B Testing
+- Causal Inference & Experimental Design
+- Predictive Modeling & Time Series Forecasting
+- Feature Performance & Impact Analysis
+- Dashboarding & KPI Reporting
 
 ---
 
 ## 🧰 Tools & Technologies
 
-**Languages & Analytics:** Python · SQL · R  
-**Visualization:** Tableau · Power BI · Excel  
-**Data Handling:** Snowflake · SQL Server · Pandas · NumPy  
-**Project Management:** Agile (Scrum) · JIRA · Confluence  
-**Collaboration:** Git · Stakeholder Reporting  
+Languages & Analytics:
+Python · SQL · R
+
+Visualization & BI:
+Tableau · Power BI · Excel
+
+Product & Analytics Techniques:
+Funnel Analysis · Cohort Analysis · KPI Design · A/B Testing · Feature Adoption Analysis · Root-Cause Analysis
+
+Data Handling & Platforms:
+Snowflake · SQL Server · Pandas · NumPy
+
+Project & Product Execution:
+Agile (Scrum) · JIRA · Confluence
+
+Collaboration & Versioning:
+Git · Stakeholder Reporting
 
 ---
 

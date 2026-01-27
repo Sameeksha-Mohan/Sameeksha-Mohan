@@ -6,9 +6,9 @@ Data & Product Analytics professional passionate about turning data into action.
 
 ## 💼 My Journey
 
-### 🧩 IBM – Data Analyst
+### 🧩 IBM 
 
-Worked as a **Data Analyst** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
+Worked as an **Analytics Consultant** for **IBM MaaS360**, an AI-powered Unified Endpoint Management (UEM) product within IBM’s ISL division. Focused on analyzing **system performance**, **user behavior**, and **feature utilization** to guide **data-driven improvements** and enhance product efficiency.  
 
 - Conducted **data analysis** using **SQL, Python, and Excel** to evaluate platform metrics, identify optimization opportunities, and support product decisions.  
 - Partnered with cross-functional teams to translate business requirements into **actionable insights** for improving adoption and engagement.  
